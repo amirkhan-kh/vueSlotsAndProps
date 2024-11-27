@@ -35,6 +35,24 @@ import {data} from './components/constants/index.js'
 </script>
 
 <style lang="css" scoped>
+header{
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+  margin: 20px 0px;
+}
+main{
+  padding: 10px;
+  margin: 20px 0px;
+  background: #5b98ec;
+  color: #fff;
 
+}
+footer{
+  background-color: #3f7655;
+  color: #fff;
+  padding: 10px;
+  margin: 20px 0px;
+}
 
 </style>
